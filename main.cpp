@@ -2,6 +2,6 @@
 
 int main()
 {
-  td::cout << "Hallo\n";
+  std::cout << "Hallo\n";
   return 0;
 }
